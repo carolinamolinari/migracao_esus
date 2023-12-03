@@ -1,0 +1,19 @@
+.container {
+        width: 100%;
+        max-width: 900px;
+        margin: 0 auto;
+    }
+
+    .form-row {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .col-auto {
+        flex: 1;
+        margin-bottom: 10px;
+    }
+.btn{
+    justify-content: right;
+}
